@@ -1,0 +1,23 @@
+D:\web-app-performance2-master\web-app-performance\web-app-domain\bin\Debug\net8.0\web-app-domain.deps.json
+D:\web-app-performance2-master\web-app-performance\web-app-domain\bin\Debug\net8.0\web-app-domain.dll
+D:\web-app-performance2-master\web-app-performance\web-app-domain\bin\Debug\net8.0\web-app-domain.pdb
+D:\web-app-performance2-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\web-app-performance2-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.AssemblyInfoInputs.cache
+D:\web-app-performance2-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.AssemblyInfo.cs
+D:\web-app-performance2-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.csproj.CoreCompileInputs.cache
+D:\web-app-performance2-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.dll
+D:\web-app-performance2-master\web-app-performance\web-app-domain\obj\Debug\net8.0\refint\web-app-domain.dll
+D:\web-app-performance2-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.pdb
+D:\web-app-performance2-master\web-app-performance\web-app-domain\obj\Debug\net8.0\ref\web-app-domain.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\bin\Debug\net8.0\web-app-domain.deps.json
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\bin\Debug\net8.0\web-app-domain.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\bin\Debug\net8.0\web-app-domain.pdb
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.AssemblyInfoInputs.cache
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.AssemblyInfo.cs
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.csproj.CoreCompileInputs.cache
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\obj\Debug\net8.0\refint\web-app-domain.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.pdb
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\obj\Debug\net8.0\ref\web-app-domain.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-domain\obj\Debug\net8.0\web-app-domain.sourcelink.json

@@ -1,0 +1,31 @@
+D:\web-app-performance2-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-repository.deps.json
+D:\web-app-performance2-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-repository.dll
+D:\web-app-performance2-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-repository.pdb
+D:\web-app-performance2-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-domain.dll
+D:\web-app-performance2-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-domain.pdb
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.csproj.AssemblyReference.cache
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.AssemblyInfoInputs.cache
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.AssemblyInfo.cs
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.csproj.CoreCompileInputs.cache
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-.F8B340CA.Up2Date
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.dll
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\refint\web-app-repository.dll
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.pdb
+D:\web-app-performance2-master\web-app-performance\web-app-repository\obj\Debug\net8.0\ref\web-app-repository.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-repository.deps.json
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-repository.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-repository.pdb
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-domain.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\bin\Debug\net8.0\web-app-domain.pdb
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.csproj.AssemblyReference.cache
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.AssemblyInfoInputs.cache
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.AssemblyInfo.cs
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.csproj.CoreCompileInputs.cache
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-.F8B340CA.Up2Date
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\refint\web-app-repository.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.pdb
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\ref\web-app-repository.dll
+C:\Users\ellen\Documents\Faculdade\Microservice and Web Engineering\projetos\web-app-refatorado-master\web-app-performance\web-app-repository\obj\Debug\net8.0\web-app-repository.sourcelink.json
